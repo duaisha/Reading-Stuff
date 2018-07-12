@@ -5,4 +5,5 @@
 4. Deep mind page for lates stuff
 5. Medium Blog
 6. Towards science 
+7. 
 
