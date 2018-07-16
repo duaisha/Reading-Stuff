@@ -16,3 +16,8 @@ Open review.net
       3. github
       4. code yourself
       
+## Reinforcemnt Learning
+1. [Introduction-to-reinforcement-learning](https://blog.algorithmia.com/introduction-to-reinforcement-learning/)
+2. [RL](http://karpathy.github.io/2016/05/31/rl/)
+3. [check](https://devblogs.nvidia.com/deep-learning-nutshell-reinforcement-learning/)
+4. 
